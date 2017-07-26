@@ -1,0 +1,311 @@
+83
+
+RESEARCH, INNOVATION AND SUSTAINABLE MOBILITY
+Fiat Group is committed to meeting the mobility needs of customers, while reducing the environmental and social impact of vehicles over their 
+entire life cycle. The Group’s global research and innovation activities are focused on developing solutions for increasingly sustainable mobility, 
+by reducing fuel consumption and emissions, improving vehicle recyclability and safety, and developing new models of mobility. Continuous 
+innovation is essential to development of products that are environmentally and socially sustainable, as well as affordable.
+
+Innovating for Sustainable Products and Processes
+In 2012, the Group launched the Global Innovation Process (GIP), which establishes a common framework for the coordination of all innovation 
+activities worldwide.
+Developed in collaboration with, and on the basis of, input from the Group’s four operating regions, the GIP covers all phases of the innovation 
+process, from idea generation to pre-competitive development. As part of that process, guidelines and targets are then formalized in the 
+Strategic Agenda.
+The process is coordinated centrally by the Chief Technology Officer who, as a member of the Group Executive Council, ensures alignment 
+of the innovation process with the Group’s strategic objectives, as well as synergies and transfer of new solutions across the Group’s global 
+product portfolio.
+At year-end 2013, the Group’s Research and Innovation activities involved some 18,700 individuals at 78 centers worldwide.
+During the year, the Group invested approximately €3.4 billion in R&D(1), representing around 4% of net revenues from Industrial Activities.
+The Group’s innovation activities have generated a significant intellectual property portfolio over the years and, at year-end 2013, it had a total 
+of 8,521 registered patents. 
+
+Patents – Fiat Group worldwide (no.)
+Patents registered at 31 December 2013
+
+of which: registered in 2013
+
+Patents pending at 31 December 2013
+
+of which: new patent applications filed in 2013
+
+8,521
+425
+3,333
+459
+
+Centers of Excellence
+Centro Ricerche Fiat (CRF), headquartered in Orbassano (Turin, Italy), was established in 1978 as a focal point for Fiat Group’s research and 
+innovation activities and it is a recognized center of excellence at the international level. The Center’s mission is to continuously improve the 
+Group’s competitiveness through the development of innovative solutions, processes and methodologies. All research activities are carried out 
+in coordination with the Group’s technical areas and operating regions. CRF draws on technical skills and know-how covering the full spectrum 
+of automotive engineering disciplines and is equipped with state-of-the-art laboratories for testing powertrain systems, analyzing materials and 
+electromagnetic compatibility, and conducting noise and vibration analyses and driving simulations.
+The Chrysler Group Automotive Research and Development Centre (ARDC) opened in May 1996 in partnership with the University of 
+Windsor in Canada and serves as an illustration of what can be achieved when industry, academia and government work together. The ARDC is 
+equipped with six road-test simulators and a range of research and development support facilities, including the Automotive Coatings Research 
+Facility, the Automotive Lighting Research Facility and the Vehicle Recycling Laboratory. 
+
+(1)  Includes capitalized R&D and R&D charged directly to the income statement.
+
+Report onOperations84
+
+Sustainability
+
+Dedication to innovation in numbers (no.)
+CFR employees at year end
+Co-funded research programs, approved under the EU’s 7th Framework Program(*)(2007-2013)
+
+of which: approved in 2013
+
+2013
+905
+174
+23
+
+(*)  The Framework Programs are funding instruments established by the European Union to support and encourage research and development. Each program is put forward 
+
+by the European Commission and adopted by the European Council and Parliament. The 7th Framework Program ran from 2007 to 2013.
+
+Strategy to Minimize Emissions 
+The Group’s product strategy is based on an approach centered on reducing the environmental impact of vehicles over their entire life 
+cycle. Key elements in that strategy include improving the efficiency of conventional engines, offering a full range of alternative fuel vehicles, 
+developing alternative propulsion and emissions reduction systems, reducing the energy requirements of vehicles, promoting driver behavior 
+that contributes to reducing emissions and introducing new mobility services and solutions.
+There is no single solution to the challenges faced by the automotive industry. Immediate and tangible results can only be achieved by 
+combining conventional and alternative technologies, while recognizing and accommodating the different economic, geographic and fuel 
+requirements of each market. Affordability is also a key consideration: even the most effective technologies cannot have a significant impact 
+on the environment if they are too expensive to reach a sufficiently large number of people.
+The Group’s commitment to increasingly sustainable mobility has been demonstrated by the results already achieved in reducing fuel 
+consumption and CO2 emissions, particularly in EMEA and NAFTA, where approximately 72% of Group revenues were generated in 2013.
+In the European Union, the Group’s mass-market and premium brands (Fiat, Alfa Romeo, Lancia, Abarth, Chrysler and Jeep) have reduced 
+average CO2 emissions per vehicle sold by 24% over the past 13 years. In addition, approximately 71% of Group cars sold in 2013 had CO2 
+emissions at or below 120 g/km, and 81% at or below 130 g/km.
+
+New registrations by CO2 emissions level in European Union for Mass-Market and premium brands (g/km)(*)
+up to 100
+from 101 to 110
+from 111 to 120
+from 121 to 130
+above 130
+
+(*)   CO2 data based on New European Driving Cycle (NEDC) measurement standard.
+
+13%
+12%
+46%
+10%
+19%
+
+In the United States, which accounts for 84% of shipments in the NAFTA market, vehicle efficiency is measured by fuel economy(1) expressed 
+in miles per gallon (mpg). In 2013, Chrysler Group’s domestic passenger car mpg increased from 31.1 in 2012 to 32.1, an improvement of 3%. 
+Light truck mpg increased 1%, from 24.3 to 24.5. 
+This trend of continuing improvements in emissions and fuel economy is the result of strategic choices made by the Group based on a process 
+of continuous innovation.
+Following are descriptions of some of the main technological innovations introduced on Group vehicles during 2013.
+
+(1)  Data is reported to the U.S. National Highway Traffic Safety Administration (NHTSA) and provided by model year, meaning the year used to designate a discrete vehicle 
+model, irrespective of the calendar year in which the vehicle was actually produced, provided that the production period does not exceed 24 months. CAFE standards from 
+NHTSA are set independently for passenger cars and light duty trucks. Fuel economy is based on the most recent NHTSA required submission, which for 2013 reflects 
+mid-model year data. Previous year data is adjusted to reflect final EPA/NHTSA reports.
+
+Report on Operations85
+
+Innovative Powertrains
+During the year, the Group continued introduction of the award-winning two-cylinder TwinAir engine on models sold in Europe, including the 
+65 hp naturally-aspirated version, the 85 hp and 105 hp turbo and the 80 hp natural gas turbo. The natural gas version is now available on the 
+Fiat 500L and 500L Living and the 105 hp turbo (introduced on the 500L in 2012) was launched on the Fiat 500 hatchback and convertible, 
+the Fiat Punto and the Alfa Romeo MiTo. All versions of the TwinAir family and the 170 hp FIRE Turbo engine use second generation MultiAir 
+technology (MultiAir II) which, with advanced air intake and combustion management systems, offers significant reductions in CO2 emissions 
+without compromising performance or drivability. During the year, the Group also completed the process of upgrading all gasoline engines to 
+comply with Euro 6 emissions standards that will apply to all new cars sold in Europe from September 2015.
+Chrysler Group’s eight-speed rear-wheel-drive automatic transmission is available on the Ram 1500 pickup, Chrysler 300, Lancia Thema, 
+Dodge Durango and Charger, Jeep Grand Cherokee and Grand Cherokee SRT. Depending on the application, this transmission contributes 
+to fuel economy improvements of up to 12%, compared with the previous five-speed and six speed transmissions it replaces. It will ultimately 
+be used on all rear-wheel drive vehicles except for the heavy-duty diesel versions of the Ram truck.
+In 2013, a new nine-speed front-wheel-drive transmission was introduced on the 2014 Jeep Cherokee and the recently unveiled 2015 Chrysler 
+200. In addition to improved fuel economy over a six-speed automatic transmission, the Cherokee’s nine-speed transmission delivers a more 
+responsive driving experience, including quicker acceleration and smoother shifting. The Chrysler 200 is the world’s first mid-size sedan to 
+feature a nine-speed automatic transmission, which comes standard. When equipped with the available award-winning 3.6L Pentastar V-6 
+engine, which delivers best-in-class 295 hp, the Chrysler 200 sedan’s highway fuel economy is improved by nearly 13% compared with the 
+outgoing model.
+Research in gasoline engine technology continued to focus on solutions that optimize performance while reducing emissions. Those solutions 
+leverage the synergies offered by complementary technologies, such as modern turbocharging systems coupled with the performance 
+characteristics of the second-generation MultiAir system and use of exhaust gas recycling systems. The result is increased flexibility in engine 
+management and, as a consequence, the potential for reductions in both fuel consumption and emissions. New transmissions enabling engines 
+to run at lower operating speeds (downspeeding) will lead to further reductions in fuel consumption. This will enhance the competitiveness of 
+the product, by combining improved performance with a reduction in operating costs. 
+For diesel engines, the MultiJet II with Injection Rate Shaping (IRS) technology was extended to the entire range with the launch of the new 
+120 hp 1.6L version on the 500L and the new 150 hp 2.0L version on the Alfa Romeo Giulietta. The MultiJet II offers reduced fuel consumption 
+(up to 3% lower) and polluting emissions (as much as 20% lower nitrogen oxide emissions) through the use of advanced combustion control 
+strategies, without sacrificing performance. The MultiJet is the latest evolution of Fiat’s revolutionary Common Rail technology and, in 2013, 
+the Group plant in Bielsko Biala, Poland, produced 5 million units of the 1.3-liter version alone. 
+The Group’s recently-launched V-6 EcoDiesel engine benefits from Fiat’s MultiJet II technology. The engine was adapted specifically for the 
+North American market to meet stringent emissions and on-board diagnostic regulations.  The 3.0L EcoDiesel V-6 engine was named one of 
+Ward’s 10 Best Engines for 2014 and contributed to the 2014 Ram 1500 being named Motor Trend Truck of the Year.
+Research activities focus on two main areas: continued evolution of the injection and combustion process, aimed at increasing engine output 
+and reducing noise, and the study and development of innovative solutions to reduce polluting emissions, particularly nitrogen oxides, which 
+will be subject to further legislative restrictions in the future. 
+In the transmissions area, innovation activities primarily focused on evolution of the Dual Clutch systems currently available on the Alfa Romeo 
+MiTo and Giulietta, Dodge Dart and Fiat Viaggio and the Fiat 500L in the U.S. Specific areas of focus included optimization of the mechatronic 
+actuation system and integration with the transmission, as well as refinements to the control system to further enhance handling and fuel 
+efficiency.
+
+Report onOperations86
+
+Sustainability
+
+For Magneti Marelli, eco-sustainable products(1) contributed €1.41 billion in revenues for 2013, representing an increase of 9.3% over the prior 
+year (€1.29 billion).
+
+Alternative Fuels and Propulsion Systems
+A key element in Fiat Group’s emissions reduction strategy is the use of alternative fuels.
+The Group believes that natural gas is currently the most effective and affordable solution available for reducing CO2 emissions and 
+pollution levels, particularly in urban areas. The level of CO2 emissions from a car running on natural gas is 23% lower than for an 
+equivalent gasoline-powered vehicle.
+In addition, natural gas in the form of biomethane, which is produced from biomass, has significant potential for development as a 
+widely-available renewable energy source.
+With a total of 12 natural gas/gasoline models now available, Fiat Group is the first and only automaker to offer a complete range of bi-fuel 
+passenger cars and commercial vehicles. In 2013, the Group launched natural gas versions of the Fiat 500L and 500L Living with the new 80 
+hp Natural Power TwinAir Turbo engine, which was awarded “Best Green Engine of the Year 2013”, one of the 12 categories in the prestigious 
+“International Engine of the Year Awards”.
+The Group also continued as the undisputed leader in this market sector in Europe with over 62,000 natural gas vehicles sold in 2013 
+(+15% versus 2012).
+In 2013, Chrysler Group remained the only automaker in North America to offer a factory-built natural gas pickup, the Ram 2500 Heavy Duty 
+CNG.
+The Group continued research and development of technologies that will use natural gas even more efficiently. Advances in engine technology 
+that leverage the properties of natural gas offer significant potential for achieving solutions to meet the CO2 emissions targets being phased in 
+across Europe through 2020.
+Fiat maintained its long-standing leadership in biofuel vehicles in Brazil with 744,100 Flexfuel and TetraFuel vehicles sold in 2013, accounting 
+for approximately 97.5% of vehicles sold by the Group. Flexfuel technology enables use of varying blends of gasoline and bioethanol, while 
+the TetraFuel engine is the first in the world capable of running on four different fuels: bioethanol, Brazilian gasoline (refined crude oil and 22% 
+anhydrous ethanol), standard gasoline and natural gas.
+
+Alternative Propulsion Systems
+The Group is also developing alternative propulsion systems. In 2013, the Fiat 500e battery electric vehicle was launched for sale in the U.S. 
+market with an Environmental Protection Agency (EPA) label of 108 highway MPGe(2) and a class-leading 87 miles of combined city/highway 
+driving range. Customers will spend an estimated USD 500 a year to power the vehicle assuming a 15,000 mile annual distance, according to 
+the EPA. The Fiat 500e battery-electric drive system was included in Ward’s 10 Best Engines ranking for 2014 and is the lone representative 
+of electric vehicle technology on the list. 
+
+(1)  Includes Xenon and LED headlights, LED tail lights, GDI injection systems, electronic control modules, automated manual transmissions and dual clutch transmissions.
+(2)  MPGe is the measure devised by the U.S. Environmental Protection Agency for determining how many miles an electric vehicle can travel on a quantity of battery-generated 
+
+electricity having the same energy content as a gallon of gasoline.
+
+Report on Operations87
+
+Innovative Vehicle Architectures 
+Solutions for an optimal balance between vehicle safety, comfort and emissions levels are focused on minimizing vehicle weight, aerodynamic 
+drag, rolling resistance and the energy demands of auxiliary systems.
+In 2013, the Group introduced the latest architectural solutions on the new Fiat 500L Living and Chrysler Group vehicles. High-Strength Steels 
+(HSS), which represent around 72% of the weight of the 500L Living, ensure a strong, rigid structure. The newly-launched 2014 Jeep Cherokee 
+uses 65% HSS, an improvement of 16% over its predecessor, the Jeep Liberty. In addition, optimization of the 500L Living’s aerodynamic profile 
+enabled a 10% reduction in the aerodynamic drag coefficient (Cx) compared with the Lancia Musa. The 2014 Ram 1500, with active aerodynamics 
+including grille shutters and air suspension, delivers best-in-class fuel economy and an aerodynamic drag coefficient (Cx) of 0.360.
+
+Sustainable Materials
+Research and innovation for materials used in Group vehicles are concentrated in three areas:
+  research on new materials and structures to reduce vehicle weight (e.g., high-strength steels, new light alloys, composite plastic materials)
+  analysis of biomaterials suitable for automotive applications (e.g., recycled polypropylene reinforced with natural fibers for use in vehicle 
+interiors, and bioplastics from renewable sources)
+  identification of alternative uses for materials recovered at end of vehicle life (e.g., use of scrap tires to produce rubberized asphalt)
+
+Promoting Eco-Sustainable Driving 
+Driving behavior is a significant contributing factor in the environmental impact of vehicles. Aware of the substantial difference drivers can make, 
+Fiat Group has continued to invest in the eco:Drive system, which provides personalized tips to help drivers improve their driving style and, as 
+a consequence, reduce fuel consumption and vehicle emissions. The eco:Drive system is now available on nearly all Fiat and Fiat Professional 
+models sold in Europe, Brazil, the U.S. and Canada. 
+An analysis of the best drivers revealed that the system can contribute to reducing fuel consumption by as much as 16%. By the end of 2013, 
+eco:Drive had been used by more than 94,000 customers and contributed to annual avoidance of more than 5,800 tons of CO2 emissions.
+On the Fiat 500L, 500L Living and 500L Trekking, the latest version of this application, eco:Drive Live, allows drivers to see tips and suggestions 
+via the new Uconnect multimedia system. Real-time feedback on driving style enables immediate reductions in fuel consumption and emissions.
+
+New Models of Mobility
+The Group’s innovation activities also focus on solutions to respond to the emerging mobility needs of customers.
+To address those needs, the Group has launched a variety of initiatives.
+One of those initiatives is Enjoy, an innovative car-sharing service launched in Milan, Italy, by the energy company ENI, in collaboration with Fiat 
+and Trenitalia. Enjoy is designed to tackle traffic congestion and improve the quality of life for the city’s inhabitants. Fiat is the vehicle supplier 
+for the project, the largest car-sharing fleet in Italy with a total of 640 Fiat 500s and 500Ls. Innovative features of the service include online or 
+smartphone app sign-up and management, as well as the ability to instantly select from a pool of available vehicles parked at locations around 
+the city and to leave the vehicle at any of the approved parking facilities within the service coverage area.
+
+Report onOperations88
+
+Sustainability
+
+Another Group project is easygo, which is targeted at the approximately 18,000 employees who commute to and from the Group’s Mirafiori 
+complex in Turin, Italy. Through a dedicated portal, employees can arrange car-pooling with coworkers and access updated information on 
+public transport and mobility services. The principal benefits expected from the ‘easygo’ project include a reduction in the environmental impact 
+of daily commuting to and from the complex, as well as direct benefits to employees such as reductions in commute times, cost, stress and 
+the risk of accidents.
+Naturally, youth have an important part to play in any discussion about the future of mobility. Fiat launched the Fiat Likes U project in 2012 
+(in collaboration with the Departments of Education and the Environment in Italy) with students from 8 universities throughout Italy taking 
+part. The project represents the first time in Europe that an automaker has worked with universities on an initiative to promote environmental 
+awareness and the use of eco-friendly cars using the three-pronged approach of Mobility (free car-sharing service for students), Study 
+(eight €5,000 university scholarships and eight seminars conducted by Fiat managers) and Work (eight paid internships within Fiat Group). 
+The initiative has proven extremely successful: more than 6,000 students used the car service in 2012 and 2013, which includes a fleet of Fiat 
+Pandas and 500Ls, for 28,000 trips totaling 320,000 km. In addition, there were more than 180,000 subscribers to the likesu.fiat.it website.
+During the year, Fiat decided to expand the project to other European universities in the Erasmus network, beginning with the Royal College 
+of Art in London.
+As part of the program with Turin Polytechnic and in collaboration with ATA and CRF, three new voluntary courses were launched in 2013 
+focused on environmental sustainability and certain aspects of emissions reduction. Organized as Voluntary Educational Programs and 
+Summer Schools, the programs provided 120 hours of training for Automotive Engineering students, giving them direct access to the latest 
+know-how from professionals working directly in the field. 
+Fiat Group is also a Global Partner of Expo 2015 in Milan, a non-commercial Universal Exposition oriented towards interpreting the collective 
+challenges faced by humanity. The Expo 2015 theme of “Feeding the Planet, Energy for Life” is perfectly matched to the Group’s own 
+commitment to the environment. The Group will provide a fleet of vehicles which will be used for transport within the Expo area and as courtesy 
+cars for delegations visiting from around the world.
+In the United States, Chrysler Group has been heavily engaged in research on future social and technological trends that will affect nearly 
+every aspect of the business - from design to manufacturing, marketing and human resources. This research is organized around five driving 
+forces: cities, lifestyle, work, health and energy. The findings from this research will enable Fiat-Chrysler to more successfully anticipate evolving 
+consumer needs and behaviors. 
+
+A CUSTOMER-FOCUSED APPROACH 
+To ensure the highest level of customer satisfaction and loyalty, the Group’s product and service offering seeks to respond to the diversification 
+of existing and emerging mobility needs.
+The Stakeholder Engagement events held during 2013 confirmed that customer-focused services, and product quality and safety are among 
+the issues considered of primary importance by the Group’s stakeholders.
+The Group is continuously monitoring customer satisfaction and developing new channels of interaction with customers to improve the quality 
+of services and product safety.
+
+Report on Operations89
+
+Interaction with Customers
+To ensure a consistent and high standard of quality in the interaction with customers, the Group has established Customer Contact Centers 
+(CCC) dedicated to managing relationships with existing and potential customers.
+A total of 26 Centers with around 1,000 customer care professionals manage approximately 10 million contacts a year. The services provided 
+range from information, to complaint management and coordination of roadside assistance. Together with dealers, the Customer Contact 
+Centers represent an essential channel of communication with customers.
+In order to respond to the constantly evolving needs and expectations of customers, the CCCs regularly monitor customer satisfaction levels 
+to identify potential areas for improvement in service levels, as well as customized, on-demand channels of communication.
+Given the vital importance of transparency and professionalism, particular emphasis is placed on training for personnel who communicate 
+directly with customers.
+
+Integrated On-board Safety
+The Group is strongly committed to its efforts to enhance safety for all road users. Research in this area includes solutions that assist drivers in 
+avoiding dangerous situations and in taking evasive action to prevent accidents. 
+The Group applies an integrated approach to the development of on-board safety systems – which has been proven to significantly reduce the 
+probability of injury in the event of an accident – focusing on the following key areas: 
+  accident prevention: systems that assist the driver in recognizing potentially dangerous situations
+  driver assist: systems that provide active assistance in controlling the vehicle and maneuvering to avoid collisions
+  damage mitigation: systems to minimize damage and injury in the event of an impact
+Proper vehicle maintenance and responsible driving are also essential to vehicle safety. The Group contributes in this area by conducting driver 
+safety courses and awareness campaigns on the importance of proper vehicle maintenance, as well as raising public awareness of the dangers 
+of driving while distracted.
+As a result of thousands of hours of virtual simulation, testing of components and sub-systems, as well as extensive crash tests, all of the 
+Group’s new models have been recognized for their safety performance.
+In 2013, the new Maserati Ghibli and Jeep Cherokee were awarded the Euro NCAP 5 Stars. And, as evidence of the Group’s emphasis on 
+vehicle design in all markets, the Fiat Panda also received an ANCAP 5 Star rating in Australia. In the U.S., the Insurance Institute for Highway 
+Safety (IIHS) recognized the Maserati Ghibli and Fiat 500L as “Top Safety Picks” for 2013 and the Dodge Dart, Dodge Avenger and Chrysler 
+200 sedan as “Top Safety Picks” for 2014. In addition, the Jeep Grand Cherokee 4WD was awarded the NHTSA NCAP 5 Stars and the Jeep 
+Grand Cherokee 2WD and Jeep Compass received a 4 Star rating.
+The need for affordable mobility and efficient infomobility systems is expected to be even more vital in the future. CRF and Magneti Marelli 
+have both been actively working on wireless technology solutions for effective Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) 
+communications, which together represent one of the key technological challenges for sustainable mobility. Both organizations continued 
+experimentation with systems to support safe and eco-compatible driving, as well as researching advanced driver interfaces that improve 
+recognition of dangerous situations. By alerting the driver of potential dangers and assisting in taking evasive action, such technologies help 
+maximize the level of protection for vehicle occupants and other road users. In addition, systems that use real-time information to reconstruct 
+and predict conditions around the vehicle represent significant progress toward the concepts of assisted driving and autonomous vehicles. 
+
+Report onOperations
